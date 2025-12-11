@@ -32,7 +32,7 @@ matplotlib / seaborn / plotly
 
 
 
-📊 Steps in the Analysis
+ Steps in the Analysis
 1. Data Loading
 
 Import unemployment dataset (CSV/Excel)
